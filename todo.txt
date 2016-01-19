@@ -1,0 +1,2 @@
+1, day by day move all menus of Kali to my own
+10, add new apps to my own [/source code/.desktop/.menus/]
